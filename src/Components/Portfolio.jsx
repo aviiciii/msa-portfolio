@@ -31,28 +31,28 @@ const imageAltText = "microsoft disc macro shot";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Clippy Clipboard",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web app to save text to a clipboard. Built with flask and deployed to Azure.",
+    url: "https://clip.laavesh.co/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Shortener",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A custom domain URL shortener. Built with HTML & JS with help from short.io",
+    url: "https://short.laavesh.co/",
   },
   {
-    title: "My Resume Site",
+    title: "QR Generator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A website that generates QR codes. Built with HTML & JS with a QR API.",
+    url: "https://qr.laavesh.co/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Linktree",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A page with links. Feel free to check it out :)",
+    url: "https://laavesh.co",
   },
 ];
 
